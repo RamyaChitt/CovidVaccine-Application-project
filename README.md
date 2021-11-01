@@ -9,6 +9,7 @@ Technologies used:
 Database:MySql version 8,
 programming language: Java
 
+** in order to view and run these project make a folder name sample, Create database and table according to give sql file ,after that Run : LandingCovied portal.java file.
 
 ![image](https://user-images.githubusercontent.com/88359966/139574233-7a0b8f48-2beb-442f-af7f-d231dbc412ef.png)
 
