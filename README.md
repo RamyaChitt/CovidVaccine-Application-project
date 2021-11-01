@@ -1,9 +1,12 @@
 # CovidVaccine-Application-project
 These project Baesd on Backend pure Java along with JDBC application.
 
+Discripton:Here use can allow to Register them slef and book vaccination solt Based on Addhar no he can allow to login process,
+Admin is responsible to check and control of all the section like allocating vaccination date, provide vaccination stock,and he can albe to check and view the details of vaccinatioed persons.
+
 Technologies used:
 
-Database:MySql version 8
+Database:MySql version 8,
 programming language: Java
 
 
